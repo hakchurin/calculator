@@ -1,0 +1,171 @@
+div.output{
+height:30px;
+width:128px;
+border: 2px solid #cc4472;*/
+background: red;
+  background: -webkit-linear-gradient(-90deg, #ff6a80, #e5a3ad);
+  background: -o-linear-gradient(-90deg, #ff6a80, yellow);
+  background: -moz-linear-gradient(-90deg, #b27f87, #ffdae0);
+  background: linear-gradient(-90deg, #ff6a80, #ffdae0);
+
+}
+
+body {
+
+  height:183px;
+  width:132px;
+  border: 4px solid #cc4472;*/
+}
+
+section{
+/*background-color:#ff7f50;
+height: 150px;*/
+background: coral;
+background: -webkit-linear-gradient(left top, #ff7256, 	#ff568f);
+background: -o-linear-gradient(bottom right, 	#ff568f, #ffc756);
+background: -moz-linear-gradient(bottom right, 	#ff568f, 	#ff568f);
+background: linear-gradient(to bottom right, #ff7256, #ffc756);
+
+
+}
+
+ #b1 {
+    background-color: 	#ffc1e7;
+    height: 30px;
+    width: 30px;
+    font-family: Arial black;
+    color: #66484d;
+    border-color:#ffeef3;
+
+}
+
+#b2 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+
+#b3 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#b4 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#b5 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#b6 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#b7 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#b8 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#b9 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+
+#b0 {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#multiply {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#subtract {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+
+#plus {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#divide {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 30px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+
+#calculate {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 80px;
+   font-family: Arial black;
+   color: #66484d;
+     border-color:#ffeef3;
+}
+#Clear {
+   background-color: 	#ffc1e7;
+   height: 30px;
+   width: 50px;
+font-family: Arial black;
+color: #66484d;
+  border-color:#ffeef3;
+}
+
+#output{
+color:#66484d;;
+font-family: Arial;
+
+}
